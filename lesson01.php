@@ -1,3 +1,7 @@
-<?php
-echo "PLEASE WORK";
-?>
+<html>
+    <head> <title>Hello World in PHP</title>
+        <body>
+            <?php echo "Hello World!!!!"; ?>
+        </body>
+    </head>
+</html>
