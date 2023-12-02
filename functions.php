@@ -12,4 +12,4 @@ function square($num){
 $numsquared = square($num);
 
 print("Using the function, it will be squared to $numsquared");
-?>
+?> 
