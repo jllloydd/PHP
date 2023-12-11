@@ -14,7 +14,7 @@ if ($conn->connect_error) {
 
 // Insert data
 $username = "Enrique Heal";
-$email = "enriquehealo@gaymail.com";
+$email = "enriquehealo@gaymail.com"; 
 $id = "1";
 
 $sql = "INSERT INTO Users (username, email, id) VALUES ('$username', '$email', '$id')";
